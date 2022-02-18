@@ -1,6 +1,0 @@
-*               filter=lfs diff=lfs merge=lfs -text
-.gitignore      filter= diff= merge= text
-.gitattributes  filter= diff= merge= text
-*.manifest  filter= diff= merge= text
-*.txt  filter= diff= merge= text
-*.json  filter= diff= merge= text
